@@ -1,0 +1,7 @@
+
+.DS_Store
+.ipynb_checkpoints/rent_price-checkpoint.ipynb
+.ipynb_checkpoints/urls-checkpoint.in
+.ipynb_checkpoints/scraper-checkpoint.py
+main.log
+urls.in
